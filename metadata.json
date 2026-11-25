@@ -1,0 +1,6 @@
+{
+  "name": "AUREON",
+  "description": "Experience Sound Beyond Limits. Luxury wireless and reference audio technology engineered for pure acoustic fidelity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
